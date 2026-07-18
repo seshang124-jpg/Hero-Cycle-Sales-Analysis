@@ -25,10 +25,11 @@
 The dashboard helps stakeholders monitor sales performance, identify business trends, optimize inventory, and support data-driven decision-making.
 
 ## Dasboard
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/66a525d4-3d47-4215-b54c-49cdb1034abf" />
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/d80c5d97-1199-4099-a65d-094208c40a2d" />
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/c4816e7b-62c0-467c-8ebe-b176a8018326" />
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/131e85fa-fd16-43ff-8080-ab5c6d897044" />
+<img width="914" height="487" alt="image" src="https://github.com/user-attachments/assets/0c2e1332-28a0-4969-a1c6-0d39dd157107" />
+<img width="894" height="490" alt="image" src="https://github.com/user-attachments/assets/c29078b7-c21f-4645-a799-cf1b0aceed92" />
+<img width="771" height="420" alt="image" src="https://github.com/user-attachments/assets/79215e6d-5be6-452e-8234-300b337ff5ec" />
+<img width="781" height="417" alt="image" src="https://github.com/user-attachments/assets/5efbdf8c-3449-4731-aee5-86cf40ad3e19" />
+<img width="768" height="438" alt="image" src="https://github.com/user-attachments/assets/af10335e-84eb-45e7-b47b-ba54800e4d5d" />
 
 
 
